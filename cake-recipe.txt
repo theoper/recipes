@@ -3,7 +3,6 @@ Ingredients:
  - 1 3/4 cups all-purpose flour
  - 3/4 cup cocoa
  - 1 1/2 teaspoons baking powder
- - 1 1/2 teaspoons baking soda
  - 1 teaspoon salt
  - 2 eggs
  - 1 cup milk
@@ -25,4 +24,5 @@ Directions:
  4. 我不会做菜啊
 
  5. 出现乱码了
-
+ 
+ 6. 删除  - 1 1/2 teaspoons baking soda
